@@ -22,6 +22,7 @@ My background sits at the intersection of:
 Founder of multiple platforms delivering real-world ROI across construction, public sector, marketplaces, and B2B systems.
 
 ---
+
 <p align="center">
   <img height="165"
        src="https://github-readme-stats.vercel.app/api?username=adryserage&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" />
@@ -33,6 +34,7 @@ Founder of multiple platforms delivering real-world ROI across construction, pub
   <img width="90%"
        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adryserage&theme=transparent" />
 </p>
+
 ---
 
 ## 🚀 What I’m Working On
