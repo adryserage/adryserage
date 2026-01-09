@@ -24,15 +24,17 @@ Founder of multiple platforms delivering real-world ROI across construction, pub
 ---
 
 <p align="center">
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api?username=adryserage&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" />
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=adryserage&layout=compact&theme=transparent&hide_border=true&langs_count=8&cache_seconds=86400" />
+  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adryserage&theme=github" />
 </p>
 
 <p align="center">
-  <img width="90%"
-       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adryserage&theme=transparent" />
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adryserage&theme=github" />
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adryserage&theme=github" />
+</p>
+
+<p align="center">
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adryserage&theme=github" />
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adryserage&theme=github&utcOffset=-5" />
 </p>
 
 ---
