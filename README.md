@@ -1,13 +1,11 @@
-<img src="https://komarev.com/ghpvc/?username=adryserage&label=Profile%20views&color=0e75b6&style=flat" alt="adryserage" />
-
 <h1 align="center">Hi 👋, I'm Adryan Serage</h1>
 <h3 align="center">Builder of scalable SaaS · Business Analyst · Full-Stack Engineer · AI Systems Architect</h3>
-
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=adryserage&label=Profile%20views&color=0e75b6&style=flat" alt="adryserage" />
+</p>
 <p align="center">
 🇨🇦 Based in Canada · Designing systems that bridge business, software, and AI
 </p>
-
----
 
 ## 🧭 About Me
 
@@ -24,17 +22,17 @@ Founder of multiple platforms delivering real-world ROI across construction, pub
 ---
 
 <p align="center">
-  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adryserage&theme=github" />
+  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adryserage&theme=zenburn" />
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adryserage&theme=github" />
-  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adryserage&theme=github" />
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adryserage&theme=zenburn" />
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adryserage&theme=zenburn" />
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adryserage&theme=github" />
-  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adryserage&theme=github&utcOffset=-5" />
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adryserage&theme=zenburn" />
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adryserage&theme=zenburn&utcOffset=-5" />
 </p>
 
 ---
