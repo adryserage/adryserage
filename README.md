@@ -54,7 +54,7 @@ Founder of multiple platforms delivering real-world ROI across construction, pub
 
 ---
 
-## 🧰 Tech Stack (Condensed)
+## 🧰 Tech Stack
 
 **Languages**
 - TypeScript / JavaScript · SQL · Python · PHP
