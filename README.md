@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Adryan Serage</h1>
-<h3 align="center">Builder of scalable SaaS · Business Analyst · Full-Stack Engineer · AI Systems Architect</h3>
-<p align="center">
+<h2 align="center">Builder of scalable SaaS · Business Analyst · Full-Stack Engineer · AI Systems Architect</h2>
+<h3 align="center">
 🇨🇦 Based in Canada · Designing systems that bridge business, software, and AI
-</p>
+</h3>
 
 ## 🧭 About Me
 
@@ -16,8 +16,6 @@ My background sits at the intersection of:
 
 Founder of multiple platforms delivering real-world ROI across construction, public sector, marketplaces, and B2B systems.
 
----
-
 ## 🚀 What I’m Working On
 
 - 🔭 Building **PaaS / SaaS platforms**
@@ -25,15 +23,11 @@ Founder of multiple platforms delivering real-world ROI across construction, pub
 - 🏗️ Shipping real products in **construction tech, govtech, and B2B marketplaces**
 - 📈 Turning complex business problems into **clean, scalable software**
 
----
-
 ## 🤝 Collaboration
 
 - 👯 Open to collaborating on **serious PaaS / SaaS products**
 - 🤝 Always interested in **architecture, automation, and AI systems**
 - 🧪 Happy to exchange ideas on **system design, DevOps, or AI workflows**
-
----
 
 ## 🧰 Tech Stack
 
@@ -54,8 +48,6 @@ Founder of multiple platforms delivering real-world ROI across construction, pub
 
 **Data & Analytics**
 - PostgreSQL · Redis · MongoDB · Power BI · GA4
-
----
 
 <p align="center">
 <b>Continuity before speed. Systems before hype.</b><br/>
