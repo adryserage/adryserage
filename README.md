@@ -21,25 +21,9 @@ Founder of multiple platforms delivering real-world ROI across construction, pub
 
 ---
 
-<p align="center">
-  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adryserage&theme=zenburn" />
-</p>
-
-<p align="center">
-  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adryserage&theme=zenburn" />
-  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adryserage&theme=zenburn" />
-</p>
-
-<p align="center">
-  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adryserage&theme=zenburn" />
-  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adryserage&theme=zenburn&utcOffset=-5" />
-</p>
-
----
-
 ## 🚀 What I’m Working On
 
-- 🔭 Building **PaaS / SaaS platforms** (AI-powered, multi-tenant, production-ready)
+- 🔭 Building **PaaS / SaaS platforms**
 - 🧠 Designing **AI agents & orchestration systems**
 - 🏗️ Shipping real products in **construction tech, govtech, and B2B marketplaces**
 - 📈 Turning complex business problems into **clean, scalable software**
@@ -76,42 +60,23 @@ Founder of multiple platforms delivering real-world ROI across construction, pub
 
 ---
 
-## 🌍 Projects & Platforms
-
-- 🏗️ **ConstructoAI** — AI-powered construction estimation & compliance
-- 💰 **Subvention.app** — Intelligent funding & grants discovery
-- 🛠️ **Helpeur.ca** — Services marketplace platform
-- 🧱 **Allowebs** — Digital transformation & SaaS studio
-
-👉 **All projects:** [https://allowebs.com/portfolio](https://allowebs.com/portfolio)
-
----
-
-## 📬 Contact
-
-- 👨‍💻 Portfolio: **https://allowebs.com**
-- 📫 Email: **support@allowebs.com**
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/adryan-s-42288711a" target="_blank">
-  <img align="center"
-       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-       alt="LinkedIn" height="30" width="40" />
-</a>
-<a href="https://stackoverflow.com/users/6127121" target="_blank">
-  <img align="center"
-       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-       alt="Stack Overflow" height="30" width="40" />
-</a>
+<p align="center">
+<b>Continuity before speed. Systems before hype.</b><br/>
+Shipping software that survives reality.
 </p>
 
 ---
 
 <p align="center">
-<b>Continuity before speed. Systems before hype.</b><br/>
-Shipping software that survives reality.
+  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adryserage&theme=zenburn" />
+</p>
+
+<p align="center">
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adryserage&theme=zenburn" />
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adryserage&theme=zenburn" />
+</p>
+
+<p align="center">
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adryserage&theme=zenburn" />
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adryserage&theme=zenburn&utcOffset=-5" />
 </p>
